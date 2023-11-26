@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.jonahpatenaude.com	TRUE	/	FALSE	1999999999	crumb	BYX4REc60d83N2ZmMmE1ZDI2ZTljNDQ5ZTc3YjI1ZmVhZTAyMjU0
-
