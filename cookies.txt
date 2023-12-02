@@ -1,4 +1,0 @@
-# 
-# This file format is compatible with Netscape cookies
-www.jonahpatenaude.com	TRUE	/	FALSE	1999999999	crumb	BSwq2jR0nocJOWFhMjNlZmVhOTMyODQzMTdjNTM5MGRmNjg5ZDNj
-
